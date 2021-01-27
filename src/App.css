@@ -1,0 +1,51 @@
+@import '~antd/dist/antd.css';
+.root{
+    position: relative;
+    width: 100%;
+    min-width: 1920px;
+    min-height: 720px;
+    background:#f00;
+}
+.header{
+    height:60px;
+    background:#2E76C1;
+}
+.slide{
+    width:200px;
+    height:1849px;
+    background: #ff0;
+    display: inline-block;
+    vertical-align: top;
+}
+.right-content{
+    display: inline-block;
+}
+.right-head{
+    width:1708px;
+    height:58px;
+    background:#fff;
+    margin-left:12px;
+}
+.right-content-content{
+    margin-top:13px;
+}
+.right-content-content1-left{
+    width:410px;
+    height:531px;
+    background: #fff;
+    margin-left:12px;
+    display: inline-block;
+}
+.right-content-content1-right{
+    width:1274px;
+    height:531px;
+    display: inline-block;
+    background: #fff;
+    margin:0 12px;
+}
+.right-content-content2{
+    width:1696px;
+    height:402px;
+    background: #fff;
+    margin:12px 0 12px 12px;
+}
