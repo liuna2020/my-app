@@ -1,11 +1,11 @@
 import './App.css';
-import { Button } from 'antd';
+import Header from './pages/header';
 
 function App() {
   return (
     <div className="root">
       <div className="header">
-          header
+          <Header />
       </div>
         <div className="content">
             <div className="slide">
