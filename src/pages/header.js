@@ -13,12 +13,12 @@ const menuSource = [
     },
     {
         id:2,
-        text:'首页123',
+        text:'工作台',
         icon:menuIconIndex
     },
     {
         id:3,
-        text:'首页456',
+        text:'催收管理',
         icon:menuIconIndex
     }
 ]
