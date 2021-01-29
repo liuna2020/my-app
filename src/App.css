@@ -4,7 +4,7 @@
     width: 100%;
     min-width: 1920px;
     min-height: 720px;
-    background:#f00;
+    background: #F5F5F5;
 }
 .header{
     height:60px;
@@ -13,7 +13,7 @@
 .slide{
     width:200px;
     height:1849px;
-    background: #ff0;
+    background: #FFFFFF;
     display: inline-block;
     vertical-align: top;
 }
