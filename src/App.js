@@ -8,6 +8,7 @@ import ContentRightThree from './pages/contentRightThree';
 import Demo from "./pages/demo";
 import Demo1 from "./pages/demo1";
 import Demo2 from "./pages/demo2"
+import Demo3 from "./pages/demo3";
 
 function App() {
   return (
@@ -16,7 +17,9 @@ function App() {
           -------------------------------------
           {/*<Demo1 />*/}
           --------------------------------------
-          <Demo2/>
+          {/*<Demo2/>*/}
+          --------------------------------------
+          <Demo3/>
       </div>
     // <div className="root">
     //   <div className="header">
